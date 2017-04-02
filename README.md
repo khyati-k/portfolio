@@ -1,2 +1,2 @@
 # potfolio
-*(https://khyati-k.github.io/portfolio)*
+*https://khyati-k.github.io/portfolio*
